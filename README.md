@@ -41,3 +41,6 @@ Feature Engineering: Creating new features to enhance model performance.
 Model Development: Building and training a machine learning model to predict loan defaults.
 
 Expected Loss Calculation: Implementing the EL formula to quantify potential losses.
+
+
+DATASET LINK: https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014
